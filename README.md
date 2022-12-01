@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudeptrai1)](https://github.com/anuraghazra/github-readme-stats)
 ![lamp shift](https://user-images.githubusercontent.com/102434123/191881056-ae33b01f-df0e-46b1-bc73-eb25546a3d29.gif)
