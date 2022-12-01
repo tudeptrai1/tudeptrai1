@@ -14,4 +14,5 @@ You can click the Preview link to take a look at your changes.
 ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tudeptrai1&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tudeptrai1)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tudeptrai1&theme=dark)](https://git.io/streak-stats)
+
