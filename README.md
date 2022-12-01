@@ -14,6 +14,7 @@
 </div>
 
 
+<br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
@@ -40,8 +41,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tudeptrai1/tudeptrai1/blob/output/snake.svg" alt="Snake animation" />
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/tudeptrai1/tudeptrai1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/tudeptrai1/tudeptrai1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ###
 <br clear="both">
 <div align="center">
