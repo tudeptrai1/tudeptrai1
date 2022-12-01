@@ -44,7 +44,11 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
   </a>
 </div>
+###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=tudeptrai1&theme=dark)](https://git.io/streak-stats)
-
+<div align="center">
+  <a href="https://open.spotify.com/user/31yaqbecmewfignw5al7cr6wlmqi">
+    <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://streak-stats.demolab.com?user=tudeptrai1&theme=dark)](https://git.io/streak-stats))" alt="Spotify recently played"  />
+  </a>
+</div>
 
