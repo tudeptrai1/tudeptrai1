@@ -42,8 +42,7 @@
 <br clear="both">
 
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/tudeptrai1/tudeptrai1/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/tudeptrai1/tudeptrai1/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-###
+
 <br clear="both">
 <div align="center">
   <a href="https://open.spotify.com/user/31yaqbecmewfignw5al7cr6wlmqi">
