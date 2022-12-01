@@ -6,8 +6,13 @@
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=tudeptrai1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=tudeptrai1" height="150" alt="languages graph"  />
 </div>
+<br clear="both">
+<div align="center">
+  <a href="https://streak-stats.demolab.com?user=tudeptrai1&theme=dark">
+    <img src="https://streak-stats.demolab.com?user=tudeptrai1&theme=dark" alt="Spotify recently played"  />
+  </a>
+</div>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" width="42" alt="laravel logo"  />
@@ -38,17 +43,12 @@
 <img src="https://raw.githubusercontent.com/tudeptrai1/tudeptrai1/blob/output/snake.svg" alt="Snake animation" />
 
 ###
-
+<br clear="both">
 <div align="center">
   <a href="https://open.spotify.com/user/31yaqbecmewfignw5al7cr6wlmqi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yaqbecmewfignw5al7cr6wlmqi&count=5)" alt="Spotify recently played"  />
   </a>
+  <br clear="both">
 </div>
-###
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31yaqbecmewfignw5al7cr6wlmqi">
-    <img src="[https://spotify-recently-played-readme.vercel.app/api?count=5](https://streak-stats.demolab.com?user=tudeptrai1&theme=dark)](https://git.io/streak-stats))" alt="Spotify recently played"  />
-  </a>
-</div>
 
