@@ -3,12 +3,9 @@
 ###
 
 <div align="center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tudeptrai1&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tudeptrai1&repo=convoychat" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=tudeptrai1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tudeptrai1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tudeptrai1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 </div>
 <br clear="both">
 <div align="center">
