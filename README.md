@@ -1,7 +1,7 @@
 <h2 align="left">Hi 👋! I'm tupinkyy</h2>
 
 ###
-
+Do Something ! 
 
 
 
