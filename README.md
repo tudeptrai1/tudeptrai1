@@ -28,27 +28,29 @@
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tudeptrai1&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
+
   <br>
-  <br>
-  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=tudeptrai1&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
+
 <hr>
+<h2 align="center">🔥 Languages-Frameworks-Tools 🔥</h2>
+<br>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,laravel,github,javascript,css,pr" /><br>
+    <img src="https://skillicons.dev/icons?i=bootstrap,mongodb,mysql,html,ae,vscode,figma,php" />
 
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/super.name1/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/tupinkyy" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+</p>
+<br>
+<h4>Learning</h4>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rails,googlecloud,vue" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
-</div>
+</p>
+<hr>
 
 ###
 <br clear="both">
@@ -56,8 +58,6 @@
   <img src="https://github.com/tudeptrai1/tudeptrai1/blob/output/github-contribution-grid-snake.gif"/>
   <br clear="both">
 </div>
-
-
 
 <br clear="both">
 
