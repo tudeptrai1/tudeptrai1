@@ -30,7 +30,7 @@ Do Something !
 ###
 <br clear="both">
 <div align="center">
-  ![snake gif](https://github.com/tudeptrai1/tudeptrai1/blob/output/github-contribution-grid-snake.gif)
+  <img src="https://github.com/tudeptrai1/tudeptrai1/blob/output/github-contribution-grid-snake.gif"/>
   <br clear="both">
 </div>
 
