@@ -7,7 +7,7 @@
 ### 
 
 <p align="center">
-  Hi, I'm Tu, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gymer 🦸‍♂️ from Vietnam 🇻🇳
+  Hi, I'm Tu, Web Developer/Coder 🥷,  Learner 👨‍💻 &  Gymer from Vietnam 🇻🇳
   <br>
 </p>
 
